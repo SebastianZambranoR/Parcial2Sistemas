@@ -1,0 +1,13 @@
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\bin\Debug\netcoreapp3.1\Punto1SC.exe
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\bin\Debug\netcoreapp3.1\Punto1SC.deps.json
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\bin\Debug\netcoreapp3.1\Punto1SC.runtimeconfig.json
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\bin\Debug\netcoreapp3.1\Punto1SC.runtimeconfig.dev.json
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\bin\Debug\netcoreapp3.1\Punto1SC.dll
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\bin\Debug\netcoreapp3.1\Punto1SC.pdb
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\obj\Debug\netcoreapp3.1\Punto1SC.csproj.AssemblyReference.cache
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\obj\Debug\netcoreapp3.1\Punto1SC.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\obj\Debug\netcoreapp3.1\Punto1SC.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\obj\Debug\netcoreapp3.1\Punto1SC.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\obj\Debug\netcoreapp3.1\Punto1SC.dll
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\obj\Debug\netcoreapp3.1\Punto1SC.pdb
+C:\Users\sebas\Desktop\Punto1SC\Punto1SC\Punto1SC\obj\Debug\netcoreapp3.1\Punto1SC.genruntimeconfig.cache

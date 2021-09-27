@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Punto1SC/1.0.0": {
+        "runtime": {
+          "Punto1SC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Punto1SC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
