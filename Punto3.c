@@ -35,7 +35,7 @@ int main(void){
     int minValue = min(dinArr, i);
     printf(" %d\n", minValue); 
 
-        int maxValue = max(dinArr, i);
+    int maxValue = max(dinArr, i);
     printf(" %d\n", maxValue); 
 
     float avgValue = promedio(dinArr, i);
